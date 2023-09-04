@@ -34,7 +34,7 @@
 
 <img alt="Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img alt="Asana" src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=Asana&logoColor=white"/>
 <img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white"/></br>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows 11&logoColor=white"/>
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
