@@ -33,7 +33,7 @@
 ### COWORK TOOL & ENVIRONMENT(IDE)
 
 <img alt="Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img alt="Notion" src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=Notion&logoColor=white"/>
+<img alt="UML" src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=UML&logoColor=white"/>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img alt="Asana" src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=Asana&logoColor=white"/>
 <img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white"/></br>
