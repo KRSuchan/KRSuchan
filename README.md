@@ -25,7 +25,6 @@
 ### FRAMEWORKS
 
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-<img alt="Vue" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>  
 
 ### DATABASE & BUILDTOOL
 
