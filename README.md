@@ -11,7 +11,7 @@
 <img alt="Java" src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>
 
 ### FRAMEWORKS
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
+<img src="https://img.shields.io/badge/Spring?style=for-the-badge&logo=Spring&logoColor=#6DB33F">
 
 ### DATABASE
 <img alt="MYSQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/>
