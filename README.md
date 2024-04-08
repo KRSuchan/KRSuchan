@@ -1,5 +1,4 @@
 # ✨ Activity ✨
-![KRSuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRSuchan&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2_suchan)](https://solved.ac/2_suchan)
 
@@ -10,7 +9,6 @@
 
 ### MAIN LANG
 <img alt="Java" src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>
-<img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  
 
 ### FRAMEWORKS
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
