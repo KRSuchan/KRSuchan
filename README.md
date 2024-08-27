@@ -8,11 +8,10 @@
 
 # 🖥️ TECH STACK 🖥️
 
-### MAIN LANG
-<img alt="Java" src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
+### LANGUAGE
+<img alt="Java" src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>  <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/>
 
-### FRAMEWORKS
+### FRAMEWORK
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
 ### DATABASE
