@@ -10,16 +10,16 @@
 
 # 🖥️ TECH STACK 🖥️
 
-### Main LANGUAGE
+### Main Language
 <img alt="Java" src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>
 
-### Learned LANGUAGES
+### Learned Languages
 <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
 
-### FRAMEWORKS
+### Frameworks
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-### DATABASES
+### Databases
 <img alt="MYSQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=REDIS&logoColor=white"/>
 
 ### DevOps
