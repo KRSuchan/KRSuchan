@@ -1,9 +1,11 @@
+<div align= "center">
+  
 # ✨ Activity ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRSuchan&layout=compact&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2_suchan)](https://solved.ac/2_suchan)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan)](https://github.com/KRSuchan/github-readme-stats)
 
-# 🏆 Awards 🏆
+# 🏆 Award 🏆
 ### 2023.12 KIT Engineering Fair 2023 은상
 
 # 🖥️ TECH STACK 🖥️
@@ -12,7 +14,7 @@
 <img alt="Java" src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>
 
 ### Learned LANGUAGES
-<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
 
 ### FRAMEWORKS
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
