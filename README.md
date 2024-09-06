@@ -3,7 +3,7 @@
 # ✨ Activity ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRSuchan&layout=compact&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2_suchan)](https://solved.ac/2_suchan)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan)](https://github.com/KRSuchan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan&show_icons=true&theme=tokyonight)
 
 # 🏆 Award 🏆
 ### 2023.12 KIT Engineering Fair 2023 은상
