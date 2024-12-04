@@ -8,6 +8,9 @@
 # 🏆 Award 🏆
 ### 2023.12 KIT Engineering Fair 2023 은상
 
+# 🪪 Certification 🪪
+### 데이터아키텍처 준전문가(DAsP) 2024.10.25
+
 # 🖥️ TECH STACK 🖥️
 
 ### Main Language
