@@ -5,12 +5,16 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2_suchan)](https://solved.ac/2_suchan)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan&show_icons=true&theme=tokyonight)
 
-# 🏆 Award 🏆
-### 2023.12 KIT Engineering Fair 2023 은상
-
-# 🪪 Certification 🪪
-### 데이터아키텍처 준전문가(DAsP) 2024.10.25
-
+# 💾 History 💾
+<div align= "left">
+  
+#### 2018.03(학사) 동명대학교 디지털미디어공학부 입학
+#### 2020.02(학사) 금오공과대학교 컴퓨터소프트웨어공학과 일반 편입
+#### 2023.11(수상) KIT Engineering Fair 2023 은상
+#### 2024.08(학사) 금오공과대학교 컴퓨터소프트웨어공학사 졸업
+#### 2024.10(자격) 데이터아키텍처 준전문가(DAsP) 
+<div align= "center">
+  
 # 🖥️ TECH STACK 🖥️
 
 ### Main Language
