@@ -3,9 +3,14 @@
 # ✨ Activity ✨
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRSuchan&layout=compact&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=2_suchan)](https://solved.ac/2_suchan)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan&show_icons=true&theme=tokyonight)  
 
+</div>
   
+2025.05.30 백준 solved.ac 플래티넘5 달성
+  
+<div align= "center">
+
 # 🖥️ TECH STACK 🖥️
 
 ### Main Language
