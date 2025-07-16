@@ -32,8 +32,5 @@
 ### DevOps
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img alt="Azure" src="https://img.shields.io/badge/azure-0080FF?style=for-the-badge&logoColor=white"/>
 
-### AI Agents
-<img alt="Amazon Q" src="https://img.shields.io/badge/AmazonQ-232F3E?style=for-the-badge&logo=amazonQ&logoColor=white"/> <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/> <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white"/> <img alt="v0" src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=v0&logoColor=white"/>  
-
 # 📨 Contact 📨
 <a href="mailto:lsc1814@naver.com"> <img alt="Naver" src="https://img.shields.io/badge/NAVER-03c75a?style=for-the-badge&logo=Naver&logoColor=white"/></a> <a href="mailto:tncks4814@gmail.com"/> <img alt="Google" src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
