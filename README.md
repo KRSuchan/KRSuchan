@@ -10,9 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRSuchan&show_icons=true&theme=tokyonight)  
 
 </div>
-  
-2025.05.30 백준 solved.ac 플래티넘5 달성
-  
+    
 <div align= "center">
 
 # 🖥️ TECH STACK 🖥️
