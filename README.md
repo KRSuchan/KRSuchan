@@ -27,7 +27,7 @@
 ### Databases
 <img alt="MYSQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=REDIS&logoColor=white"/>
 
-### DevOps
+### Infra
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 
 # 📨 Contact 📨
