@@ -19,7 +19,7 @@
 <img alt="Java" src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge"/>
 
 ### Usable Languages
-<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> 
+<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="Cpp" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 ### Frameworks
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img alt="React Native" src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
