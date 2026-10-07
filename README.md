@@ -17,6 +17,9 @@
   <p>2026-06 ~ 2026-09 : 사내 NGINX GW 프로젝트</p>
   </div>
 </div>
-
+<div align= "center">
+  
 # 📨 Contact 📨
 <a href="mailto:lsc1814@naver.com"> <img alt="Naver" src="https://img.shields.io/badge/NAVER-03c75a?style=for-the-badge&logo=Naver&logoColor=white"/></a> <a href="mailto:tncks4814@gmail.com"/> <img alt="Google" src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</div>
