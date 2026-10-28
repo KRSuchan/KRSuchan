@@ -15,6 +15,7 @@
   <p>2025-08 ~ 2025-12 : KB국민은행 마이데이터 API 인프라 전환 및 구축 프로젝트</p>
   <p>2026-01 ~ 2026-05 : 삼성전자 DS(반도체) API HUB 포탈 개발 프로젝트</p>
   <p>2026-06 ~ 2026-09 : 사내 NGINX GW 프로젝트</p>
+  <p>2026-10 ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 사내 프로젝트 H</p>
   </div>
 </div>
 <div align= "center">
